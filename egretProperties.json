@@ -1,0 +1,38 @@
+{
+  "engineVersion": "5.3.10",
+  "compilerVersion": "5.3.10",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "WXCloudApi",
+      "path": "./libs/WXCloudApi"
+    },
+    {
+      "name": "egretmgobe",
+      "path": "./libs/egretmgobe"
+    }
+  ],
+  "eui": {
+    "exmlRoot": [
+      "resource/eui_skins"
+    ]
+  }
+}

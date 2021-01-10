@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="StartSceneSkin"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" locked="true"/>
+	<e:Button id="b0" label="数组和效率测试方法" y="436" anchorOffsetY="0" height="30" anchorOffsetX="0" width="201" x="400"/>
+	<e:Button id="b1" label="栈" y="490.333" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88" left="400"/>
+	<e:Button id="b2" label="队列" x="513" y="490.799" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88"/>
+	<e:Button id="b3" label="链表" y="544.667" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88" left="400"/>
+	<e:Button id="b4" label="集合" x="513" y="545.133" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88"/>
+	<e:Button id="b5" label="字典" y="598.859" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88" left="400"/>
+	<e:Button id="b6" label="哈希表" x="513" y="599.325" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88"/>
+	<e:Button id="b7" label="递归" y="653.192" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88" left="400"/>
+	<e:Button id="b8" label="树" x="513" y="653.658" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88"/>
+	<e:Button id="b10" label="图论" y="761.845" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88" left="400"/>
+	<e:Button id="b11" label="排序算法" x="513" y="762.311" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88"/>
+	<e:Button id="b12" label="搜索算法" y="816.178" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88" left="400"/>
+	<e:Button id="b13" label="动态规划" x="513" y="816.644" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88"/>
+	<e:Button id="b14" label="贪心算法" y="870.574" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88" left="400"/>
+	<e:Button id="b15" label="回溯算法" x="513" y="871.04" anchorOffsetY="0" height="30" anchorOffsetX="0" width="88"/>
+	<e:Button id="b9" label="二叉堆和堆排序" y="707.333" anchorOffsetY="0" height="30" anchorOffsetX="0" width="201" x="400"/>
+	<e:Button id="b16" label="函数式编程风格" y="925" anchorOffsetY="0" height="30" anchorOffsetX="0" width="201" x="400"/>
+	<e:Image source="j1_png" x="11" y="21" scaleX="0.6" scaleY="0.6"/>
+	<e:Image source="j2_png" x="10" y="441.977" scaleX="0.6" scaleY="0.6"/>
+	<e:Image source="j3_png" x="304" y="18.544" scaleX="0.6" scaleY="0.6"/>
+</e:Skin>
